@@ -47,7 +47,9 @@ The source institution is not named publicly at the contributor's request. This 
 
 ## About the creator
 
-CHAR9S is an independent designer and builder with 15+ years in motion and visual design, a background in film and brand production, and experience running a creative studio. Career Evidence combines that production background with practical AI workflows. It does not claim professional recruiting credentials.
+CHAR9S is an independent designer and builder with 15+ years in motion and visual design, spanning film titles, CG content, brand identity, and creative studio practice. Experience taking projects from brief to delivery informs an approach to AI built around clear inputs, deliberate choices, and review.
+
+Current work includes generative imagery and video workflows, design, and web projects. On GitHub, that practice extends into reusable AI skills: documented ways to organize information, produce a useful draft, and check the result. Career Evidence applies this approach to resumes and interview presentations, drawing its career-specific guidance from employment resources.
 
 ## Feedback and licence
 
